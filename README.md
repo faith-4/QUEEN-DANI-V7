@@ -36,7 +36,8 @@
 
 ### ☁️ 3. Deploy on Our Hosting Website  
 Click the **DEPLOY** button here:  
-👉 **https://queen-dani-host.onrender.com**
+👉 **https://queen-dani-v7-pair.onrender.com**
+or on panel. get session id and deploy on render or GitHub.
 
 ---
 
